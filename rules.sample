@@ -1,0 +1,8 @@
+# Directories
+
+public/styles/
+admin/styles/
+
+# Files
+
+something/different/style.scss  another/directory/style.css
