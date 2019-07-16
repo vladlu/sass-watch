@@ -10,12 +10,12 @@ It has exactly the same syntax as the default "sass --watch" command, but:
  
 1. Use a newline instead of a space;
 2. Use a space(s) instead of a colon;
-2. Specify the paths relative to the project root.
+2. Specify paths relative to the project root.
 
 And:
 
 - You can add empty lines for readability purposes;
-- You can use commens that start from a `#` character.
+- You can use comments that start from a `#` character.
 
 ## Example
 
@@ -58,6 +58,6 @@ And that will be added to the `sass --watch --no-source-map` command. That's it!
 
 #
 
-Version: 1.0.0
+Version: 1.0.1
 
 License: [MIT](https://github.com/vladlu/sass-watch/blob/master/LICENSE)
