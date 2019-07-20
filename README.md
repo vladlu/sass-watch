@@ -58,6 +58,6 @@ And that will be added to the `sass --watch --no-source-map` command. That's it!
 
 #
 
-Version: 1.0.1
+Version: 1.0.2
 
 License: [MIT](https://github.com/vladlu/sass-watch/blob/master/LICENSE)
